@@ -1,2 +1,2 @@
-# alignmentPrimers
-Specific project script - archived here for reporting purposes. Unlikely to be of use to anyone!
+# EA Diatom project
+Specific project scripts archived here for reporting purposes. 
