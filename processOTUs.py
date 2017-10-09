@@ -1,5 +1,4 @@
 # For the diatom alignment taxonomy assessments
-# To be run on the QIIME server so no BioPython!
 
 import argparse
 import sys
